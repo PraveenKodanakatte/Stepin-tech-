@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Sample Resume</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="cv.css">
+</head>
+<body class="bdy">
+	<br><br><br>
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-sm-12 ">
+				<div class="card">
+					<header class="card-header">
+					<center><h3 class="card-title"><b>PraveenKumar S</b></h3>
+					<h6 class="card-title">+917022642959</h6>
+					<h6 class="card-title">praveenkodanakatte@gmail.com</h6>
+					<h6 class="card-title"><a href="https://github.com/PraveenKodanakatte">https://github.com/PraveenKodanakatte</a></h6></center>
+					</header>
+					<article class="card-body">
+						<form>
+								<div class="form-group" id="lable">
+								<label>  Seeking an opportunity to utilize my skills and abilities in institution that offers professional growth, while being resourceful, innovative and flexible to achieve job satisfaction by giving my best to it.</label>
+							    </div>
+
+							    <div class="form-group">
+							    	<label id="l1"><Strong>ACADEMIC QUALIFICATION</Strong></label>
+							    	<center><table border="2" class="tab">
+							    		<tr>
+							    			<th>Examination</th>
+							    			<th>Board/University</th>
+							    			<th>School/College</th>
+							    			<th>Year of passing</th>
+							    			<th>Percentage(%)</th>
+							    		</tr>
+							    		<tr>
+							    			<td>MCA</td>
+							    			<td>VTU, Belgaum.</td>
+							    			<td>JNNCE</td>
+							    			<td>2020</td>
+							    			<td>72.08%</td>
+							    		</tr>
+							    		<tr>
+							    			<td>BCA</td>
+							    			<td>Kuvempu University</td>
+							    			<td>LBAS And SBS</td>
+							    			<td>2017</td>
+							    			<td>70.12</td>
+							    		</tr>
+							    		<tr>
+							    			<td>12th</td>
+							    			<td>D.P.U.E, Karnataka.</td>
+							    			<td>Amara Jothi Composite PU College</td>
+							    			<td>2014</td>
+							    			<td>62.08%</td>
+							    		</tr>
+							    	</table></center>
+							    </div>
+							    <div class="form-group">
+							    	<h5 id="l1"><Strong>SKILLS</Strong></h5>	
+							    </div>
+							    
+							    <ul><div class="form-group">
+							    	<h6 id="tech"><b>Web Technologies:</b> Well versed in web page design and developing dynamic pages using latest HTML5, CSS, Bootstrap and JavaScript  based on requirement. 	
+							    </div>
+
+							    <div class="form-group">
+							    	<h6  id="tech"><b>Database:</b>  Proficient in basic SQL operation with MySQL for database retrieval.	
+							    </div>
+
+							    <div class="form-group">
+							    	<h6  id="tech"><b>Frameworks:</b> Understanding the basic concept of AngularJS(V,1.1). In Reactjs Understanding concepts like JSX , Components,State,  Props and Component Life Cycle.	
+							    </div>
+
+							    <div class="form-group">
+							    	<h6  id="tech"><b>Code Repository:</b> For repository used GitHub, very much familiar with this repository understanding the purpose which they serves and support.  <i><a href="https://github.com/Praveenkodanakatte">(https://github.com/Praveenkodanakatte)</a></i>	
+							    </div></ul>
+
+							     <div class="form-group">
+							    	<h5 id="l1"><Strong>CERTIFICATIONS</Strong></h5>	
+							    </div>
+
+							    <div class="form-group">
+							    	<ul><h6  id="tech">Core Java certification from Intershala.</h6></ul>	
+							    </div>
+
+							    <div class="form-group">
+							    	<ul><h6  id="tech">JavaScript certification from Udemy</h6></ul>	
+							    </div>
+
+							    <div class="form-group">
+							    	<h5 id="l1"><Strong>PROJECT DESCRIPTION:</Strong></h5>	
+							    </div>
+
+							    <div class="form-group">
+							    	<h6 id="l1"><b>“Faculty Feedback System”</b></h6>	
+							    </div>
+
+							    <div class="form-group">
+							    	<ul><h6  id="tech">Handling various technical aspects like coding of modules using the given design Specifications, debugging and fixing the defects as well as analyzing its root cause</h6></ul>	
+							    </div>
+
+							    <div class="form-group">
+							    	<ul><h6  id="tech">Proficient knowledge in Android Studio and collaborating with team members.</h6></ul>	
+							    </div>
+
+							    <div class="form-group">
+							    	<h6 id="l1"><b>“3D Object Tracking In Augmented Reality”</b></h6>	
+							    </div>
+
+							    <div class="form-group">
+							    	<ul><h6  id="tech">Handling some technical aspects like coding and design given specifications.</h6></ul>	
+							    </div>
+
+							    <div class="form-group">
+							    	<ul><h6  id="tech">Proficient knowledge in Unity Software as well as Vuforia.</h6></ul>	
+							    </div>
+
+							    <div class="form-group">
+							    	<h6 id="l1"><b>“Node Tracking”</b></h6>	
+							    </div>
+
+							    <div class="form-group">
+							    	<ul><h6  id="tech">Handling various technical aspects like coding of modules using the given design Specifications, debugging and fixing the defects</h6></ul>	
+							    </div>
+
+							    <div class="form-group">
+							    	<ul><h6  id="tech">Proficient knowledge in Eclipse and Database</h6></ul>	
+							    </div>
+
+							    <div class="form-group">
+							    	<h5 id="nam" align=><b><br><br>- Praveenkumar S</b></h5>	
+							    </div>
+
+					    </form>
+					</article>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
